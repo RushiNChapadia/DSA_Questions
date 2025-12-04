@@ -1,5 +1,5 @@
 package com.example.question_inclass
-
+//Find the word with the longest length in the given sentence
 fun longestWordInString(sentence: String): String{
     var maxWordStart = -1
     var maxWordLen = 0
